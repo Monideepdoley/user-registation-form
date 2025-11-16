@@ -1,1 +1,1 @@
-# user-registation-form
+# user-registation-form This project contains a simple user registration system where an HTML form collects username, email, and password and sends the data to a PHP script. The PHP script securely inserts the submitted information into a MySQL database using prepared statements.
